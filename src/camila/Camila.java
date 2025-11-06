@@ -2,6 +2,6 @@ package camila;
 
 public class Camila {
     public static void main(String[] args) throws Exception {
-        System.out.println("Camila, Flor"); 
+        System.out.println("Hola Camila"); 
     }
 }
